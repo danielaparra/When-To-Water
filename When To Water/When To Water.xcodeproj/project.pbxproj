@@ -13,6 +13,7 @@
 		7B3D3F25226FB36A00D8E94E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B3D3F23226FB36A00D8E94E /* LaunchScreen.storyboard */; };
 		7B8E4E3422712384001F9C2F /* ScheduleOverviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E4E3322712384001F9C2F /* ScheduleOverviewViewController.swift */; };
 		7B8E4E3622712462001F9C2F /* UpcomingScheduleCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E4E3522712462001F9C2F /* UpcomingScheduleCollectionViewController.swift */; };
+		7B8E4E3822728032001F9C2F /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E4E3722728032001F9C2F /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7B3D3F26226FB36A00D8E94E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7B8E4E3322712384001F9C2F /* ScheduleOverviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleOverviewViewController.swift; sourceTree = "<group>"; };
 		7B8E4E3522712462001F9C2F /* UpcomingScheduleCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingScheduleCollectionViewController.swift; sourceTree = "<group>"; };
+		7B8E4E3722728032001F9C2F /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				7B3D3F1A226FB36900D8E94E /* AppDelegate.swift */,
 				7B3D3F1E226FB36900D8E94E /* Main.storyboard */,
+				7B8E4E3722728032001F9C2F /* SettingsViewController.swift */,
 				7B8E4E3322712384001F9C2F /* ScheduleOverviewViewController.swift */,
 				7B8E4E3522712462001F9C2F /* UpcomingScheduleCollectionViewController.swift */,
 				7B3D3F21226FB36A00D8E94E /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				7B3D3F1B226FB36900D8E94E /* AppDelegate.swift in Sources */,
 				7B8E4E3622712462001F9C2F /* UpcomingScheduleCollectionViewController.swift in Sources */,
 				7B8E4E3422712384001F9C2F /* ScheduleOverviewViewController.swift in Sources */,
+				7B8E4E3822728032001F9C2F /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
