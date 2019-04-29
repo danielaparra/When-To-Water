@@ -16,6 +16,7 @@
 		7B8E4E3822728032001F9C2F /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E4E3722728032001F9C2F /* SettingsViewController.swift */; };
 		7B8E4E3A2272818B001F9C2F /* AddNewPlantViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E4E392272818B001F9C2F /* AddNewPlantViewController.swift */; };
 		7B8E4E3C227281FB001F9C2F /* PlantDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E4E3B227281FB001F9C2F /* PlantDetailViewController.swift */; };
+		7B8E4E3F227770AF001F9C2F /* SheduleOverviewCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E4E3E227770AF001F9C2F /* SheduleOverviewCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		7B8E4E3722728032001F9C2F /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		7B8E4E392272818B001F9C2F /* AddNewPlantViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewPlantViewController.swift; sourceTree = "<group>"; };
 		7B8E4E3B227281FB001F9C2F /* PlantDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantDetailViewController.swift; sourceTree = "<group>"; };
+		7B8E4E3E227770AF001F9C2F /* SheduleOverviewCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheduleOverviewCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,17 +65,26 @@
 			isa = PBXGroup;
 			children = (
 				7B3D3F1A226FB36900D8E94E /* AppDelegate.swift */,
-				7B8E4E392272818B001F9C2F /* AddNewPlantViewController.swift */,
-				7B8E4E3722728032001F9C2F /* SettingsViewController.swift */,
-				7B8E4E3322712384001F9C2F /* ScheduleOverviewViewController.swift */,
-				7B8E4E3522712462001F9C2F /* UpcomingScheduleCollectionViewController.swift */,
-				7B8E4E3B227281FB001F9C2F /* PlantDetailViewController.swift */,
+				7B8E4E3D227532A9001F9C2F /* New Group */,
 				7B3D3F21226FB36A00D8E94E /* Assets.xcassets */,
 				7B3D3F1E226FB36900D8E94E /* Main.storyboard */,
 				7B3D3F23226FB36A00D8E94E /* LaunchScreen.storyboard */,
 				7B3D3F26226FB36A00D8E94E /* Info.plist */,
 			);
 			path = "When To Water";
+			sourceTree = "<group>";
+		};
+		7B8E4E3D227532A9001F9C2F /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				7B8E4E3322712384001F9C2F /* ScheduleOverviewViewController.swift */,
+				7B8E4E3E227770AF001F9C2F /* SheduleOverviewCollectionViewCell.swift */,
+				7B8E4E3522712462001F9C2F /* UpcomingScheduleCollectionViewController.swift */,
+				7B8E4E3B227281FB001F9C2F /* PlantDetailViewController.swift */,
+				7B8E4E392272818B001F9C2F /* AddNewPlantViewController.swift */,
+				7B8E4E3722728032001F9C2F /* SettingsViewController.swift */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,6 +162,7 @@
 				7B8E4E3622712462001F9C2F /* UpcomingScheduleCollectionViewController.swift in Sources */,
 				7B8E4E3422712384001F9C2F /* ScheduleOverviewViewController.swift in Sources */,
 				7B8E4E3A2272818B001F9C2F /* AddNewPlantViewController.swift in Sources */,
+				7B8E4E3F227770AF001F9C2F /* SheduleOverviewCollectionViewCell.swift in Sources */,
 				7B8E4E3822728032001F9C2F /* SettingsViewController.swift in Sources */,
 				7B8E4E3C227281FB001F9C2F /* PlantDetailViewController.swift in Sources */,
 			);
