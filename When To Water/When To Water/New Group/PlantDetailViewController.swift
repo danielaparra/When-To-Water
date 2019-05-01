@@ -15,7 +15,6 @@ class PlantDetailViewController: UIViewController {
 
         // Do any additional setup after loading the view.
     }
-    
 
     /*
     // MARK: - Navigation
@@ -26,5 +25,19 @@ class PlantDetailViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
+    
+    // MARK - IBActions
+    
+    @IBAction func editPlant(_ sender: Any) {
+    }
+    
+    @IBAction func backButton(_ sender: Any) {
+    }
+    
+    // MARK - Properties
 
+    @IBOutlet weak var plantImageView: UIImageView!
+    @IBOutlet weak var plantNameTextField: UITextField!
+    @IBOutlet weak var plantTypeTextField: UITextField!
+    @IBOutlet weak var plantLocationTextField: UITextField!
 }
