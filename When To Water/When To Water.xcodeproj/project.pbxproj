@@ -19,6 +19,7 @@
 		7B8E4E3F227770AF001F9C2F /* SheduleOverviewCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E4E3E227770AF001F9C2F /* SheduleOverviewCollectionViewCell.swift */; };
 		7B8E4E412277768F001F9C2F /* DailyScheduleHeaderCollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E4E402277768F001F9C2F /* DailyScheduleHeaderCollectionReusableView.swift */; };
 		7B8E4E43227A1360001F9C2F /* DailyScheduleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E4E42227A1360001F9C2F /* DailyScheduleCollectionViewCell.swift */; };
+		7B8E4E45227BE6ED001F9C2F /* AddScheduleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E4E44227BE6ED001F9C2F /* AddScheduleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		7B8E4E3E227770AF001F9C2F /* SheduleOverviewCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheduleOverviewCollectionViewCell.swift; sourceTree = "<group>"; };
 		7B8E4E402277768F001F9C2F /* DailyScheduleHeaderCollectionReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScheduleHeaderCollectionReusableView.swift; sourceTree = "<group>"; };
 		7B8E4E42227A1360001F9C2F /* DailyScheduleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScheduleCollectionViewCell.swift; sourceTree = "<group>"; };
+		7B8E4E44227BE6ED001F9C2F /* AddScheduleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddScheduleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				7B8E4E42227A1360001F9C2F /* DailyScheduleCollectionViewCell.swift */,
 				7B8E4E3B227281FB001F9C2F /* PlantDetailViewController.swift */,
 				7B8E4E392272818B001F9C2F /* AddNewPlantViewController.swift */,
+				7B8E4E44227BE6ED001F9C2F /* AddScheduleViewController.swift */,
 				7B8E4E3722728032001F9C2F /* SettingsViewController.swift */,
 			);
 			path = "New Group";
@@ -171,6 +174,7 @@
 				7B8E4E3A2272818B001F9C2F /* AddNewPlantViewController.swift in Sources */,
 				7B8E4E3F227770AF001F9C2F /* SheduleOverviewCollectionViewCell.swift in Sources */,
 				7B8E4E412277768F001F9C2F /* DailyScheduleHeaderCollectionReusableView.swift in Sources */,
+				7B8E4E45227BE6ED001F9C2F /* AddScheduleViewController.swift in Sources */,
 				7B8E4E3822728032001F9C2F /* SettingsViewController.swift in Sources */,
 				7B8E4E3C227281FB001F9C2F /* PlantDetailViewController.swift in Sources */,
 			);
